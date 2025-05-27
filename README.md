@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# 🧖‍♀️ Frontend_Spa_Oasis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bienvenido/a a **Spa Oasis**, un proyecto frontend desarrollado con **React** y **Bootstrap** que representa la presencia digital de un spa moderno, enfocado en el bienestar y la relajación. El diseño es completamente responsive y está construido siguiendo buenas prácticas de desarrollo web.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Tecnologías Utilizadas
 
-### `npm start`
+- ⚛️ **React** – Librería para interfaces de usuario interactivas y modulares.
+- 🎨 **Bootstrap** – Sistema de diseño para lograr una experiencia responsive y coherente.
+- 💅 **CSS Modules / SCSS** – Para estilos organizados y reutilizables.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📌 Funcionalidades Principales
 
-### `npm test`
+- Pagina de Administrador y usuario y sus respectivas diferencias de funcionalidades.
+- Página de inicio con presentación del spa y servicios destacados.
+- Pagina de Login y Registro.
+- Sección de servicios (masajes, faciales, relajación).
+- Sección de reservas.
+- Diseño adaptable a móviles, tablets y escritorios.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✅ Buenas Prácticas Implementadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ✔️ Estructura modular y componentes reutilizables.
+- ✔️ Separación de responsabilidades (componentes, estilos, lógica).
+- ✔️ Uso de `props` y `state` de manera eficiente.
+- ✔️ Nombres de clases y archivos coherentes.
+- ✔️ Buen uso de `useEffect`, `useState`, y hooks personalizados.
+- ✔️ Accesibilidad básica (uso de etiquetas semánticas, contrastes adecuados).
+- ✔️ Organización de carpetas (`components/`, `assets/`, `pages/`, `styles/`).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📁 Estructura del Proyecto
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
