@@ -14,12 +14,24 @@ Bienvenido/a a **Spa Oasis**, un proyecto frontend desarrollado con **React** y 
 
 ## 📌 Funcionalidades Principales
 
-- Pagina de Administrador y usuario y sus respectivas diferencias de funcionalidades.
-- Página de inicio con presentación del spa y servicios destacados.
-- Pagina de Login y Registro.
-- Sección de servicios (masajes, faciales, relajación).
-- Sección de reservas.
-- Diseño adaptable a móviles, tablets y escritorios.
+Página de inicio con presentación del spa y servicios destacados.
+Diseño responsive, adaptable a móviles, tablets y escritorios.
+Páginas de Login y Registro para acceso seguro de usuarios y administradores.
+Sección de servicios (masajes, terapias, baños).
+Sistema de reservas en línea.
+
+**🔐 Funcionalidades por Rol**
+
+👤**Usuario (Cliente)**
+
+- Ver servicios disponibles.
+- Realizar y gestionar sus reservas.
+- Consultar historial de citas.
+
+🛠️**Administrador**
+
+-Crear, editar o eliminar servicios.
+-Ver y gestionar todas las reservas.
 
 ---
 
